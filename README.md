@@ -1,4 +1,6 @@
 ![logo](https://github.com/ZahidHussainAbro/ZahidHussainAbro/blob/main/vecteezy_business-meeting-asian-group-man-woman-brainstorm_21153068.jpg)
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/16b33b8b-3ff5-4793-ad98-08a198e5d3a3" />
+
 <h1 align="center">Hi 👋, I'm Zahid Hussain Abro</h1>
 <h3 align="center">Data Analyst Deep Diver from Italy</h3>
 
