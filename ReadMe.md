@@ -12,7 +12,7 @@ Pursuing Master's Degree in Economics and Policy Evaluation. <br>Similarly, Enth
 ![](https://streak-stats.demolab.com/?user=ZahidHussainAbro&theme=graywhite&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ZahidHussainAbro&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
